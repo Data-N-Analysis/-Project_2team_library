@@ -20,31 +20,31 @@ ex) Titanic(오승태폼미쳤팀)
 <table>
   <tr>
     <td align="center">
-    <a href="https://github.com/StatisticsFox">
+    <a href="https://github.com/suminyeom">
       <img src="https://avatars.githubusercontent.com/u/92065443?v=4" width="100px;" alt=""/>
       <br />
       <sub>
-        <b>최지혁</b>
+        <b>염수민</b>
       </sub>
     </a>
     <br />
     </td>
     <td align="center">
-    <a href="https://github.com/ohseungtae">
+    <a href="https://github.com/kdovin">
       <img src="https://avatars.githubusercontent.com/u/126853146?v=4" width="100px;" alt=""/>
       <br />
       <sub>
-        <b>오승태</b>
+        <b>김도빈</b>
       </sub>
     </a>
     <br />
     </td>
     <td align="center">
-    <a href="https://github.com/jeongraekyeong">
+    <a href="https://github.com/ImSOOHO">
       <img src="https://avatars.githubusercontent.com/u/162093449?v=4" width="100px;" alt=""/>
       <br />
       <sub>
-        <b>정래경</b>
+        <b>박수호</b>
       </sub>
     </a>
     <br />
